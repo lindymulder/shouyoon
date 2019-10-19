@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiechiepub.bjxycg.com/sitemap.xml
